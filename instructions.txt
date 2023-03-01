@@ -1,0 +1,54 @@
+Basic Web Skeleton
+
+Strapi 
+		1.Login
+		2. Register
+
+Roles
+
+Frontend  -> ReactJs
+		1. npx create-react-app frontend
+
+Backend   -> Strapi
+		1. npx create-strapi-app@latest backend
+		2. npm run strapi install documentation
+
+WIndow + X
+
+
+Frontend  -> ReactJs
+
+Pages
+1. Home
+2. Login
+				
+3. Register
+
+Example
+
+SchoolManaagement System
+Roles
+	1. Admin
+	2. Teachers
+	3. Students
+	4. Parent
+	5. Accountant
+	6. Librarian
+
+
+ctrl + alt + delete
+
+
+Ecommerce Website
+Roles
+	1. Admin
+	2. Customers
+	3. Sellers
+	4. CustomerExecutive
+	5. Logistic
+
+jwt = json web token
+
+IN Javascript you can call the api using 2 built in techniq
+1. FetchAPI
+2. XMLHTTPRequest Class
